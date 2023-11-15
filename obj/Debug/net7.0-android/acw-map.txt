@@ -1,0 +1,3 @@
+AndroidMobile.MainActivity, AndroidMobile;crc64375dc497cb4a4509.MainActivity
+AndroidMobile.MainActivity;crc64375dc497cb4a4509.MainActivity
+androidmobile.MainActivity;crc64375dc497cb4a4509.MainActivity
