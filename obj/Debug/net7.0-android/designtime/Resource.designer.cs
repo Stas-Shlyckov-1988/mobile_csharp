@@ -61,6 +61,9 @@ namespace AndroidMobile
 			// aapt resource value: 0x7F020001
 			public const int button2 = 2130837505;
 			
+			// aapt resource value: 0x7F020002
+			public const int imageView1 = 2130837506;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

@@ -13,7 +13,7 @@
         android:scrollbars="none"
         android:scrollIndicators="none"
         android:layout_marginTop="20.0dp"
-        android:layout_marginLeft="10.0dp"
+        android:layout_marginLeft="20.0dp"
     />
 
     <Button
@@ -24,8 +24,16 @@
         android:scrollbars="none"
         android:scrollIndicators="none"
         android:layout_marginTop="80.0dp"
-        android:layout_marginLeft="10.0dp"
+        android:layout_marginLeft="20.0dp"
     />
+    <ImageView
+        android:layout_width="577.5dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1"
+        android:layout_marginTop="160.0dp"
+        android:src="@mipmap/appicon_foreground"
+        
+        />
 
 
 </RelativeLayout>
